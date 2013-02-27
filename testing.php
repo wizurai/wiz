@@ -1,3 +1,3 @@
 <?phpinfo()?>
 
-<p>testing</p>
+
